@@ -1,4 +1,5 @@
 #створити клас який описує людину
+print("hello world")
 class people:
     def __init__(self, name, date_of_birth, gender):
         self.name = name
